@@ -4,3 +4,4 @@ gitの練習
 4回目の追加
 git add
 git commit
+git rm
