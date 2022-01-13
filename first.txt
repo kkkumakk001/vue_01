@@ -2,3 +2,5 @@ gitの練習
 基本的なワークフロー
 3回目の追加
 4回目の追加
+git add
+git commit
